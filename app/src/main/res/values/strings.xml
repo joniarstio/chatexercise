@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chatexercise</string>
+    <string name="enter_message">Enter message</string>
+    <string name="current_user">currentUser</string>
+    <string name="log_out">Logout</string>
+    <string name="settings">Settings</string>
+</resources>
